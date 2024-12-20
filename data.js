@@ -6,11 +6,11 @@ apikey:'xxxx',// Coinbase API Key
 
 secretkey:'xxxxxx',// Coinbase 2nd Key
 
-bot_token:'xxxx',// Bot Token
+bot_token:'7526775247:AAFZiGUDFiJlc4JbWZthwCGuZAca3sThTKc',// Bot Token
 
-bot_name:'xxxx',// Bot Username Without @
+bot_name:'fire_testinggg_bot',// Bot Username Without @
 
-bot_admin:1234567890,// Admin Telegram Id
+bot_admin:6388548761,// Admin Telegram Id
 
 channelsList : ['@TXTPayouts'],// Channels List
 
